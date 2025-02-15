@@ -1,2 +1,2 @@
 # ROS_competition
-- Competition in summer.2020
+- Competition in summer 2020
